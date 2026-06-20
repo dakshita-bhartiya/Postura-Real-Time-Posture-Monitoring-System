@@ -175,9 +175,7 @@ Observe the buzzer alert indicating incorrect posture.
 
 ## Demonstration
 
-🎥 Demo video will be added soon.
-
-📷 Prototype image will be added soon.
+🎥 [Watch Demo Video](postura.mp4)
 
 ---
 
